@@ -1,0 +1,9 @@
+{
+    "time": 2,
+    "space": 256,
+    "difficulty": "Div2 C / Div1 A",
+    "tags": ["greedy", "math", "constructive algorithms", "prefix sums", "bit manipulation"],
+    "input_file": "standard input",
+    "output_file": "standard output",
+    "test_cases": 7
+}
